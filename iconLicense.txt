@@ -1,0 +1,20 @@
+Artist: Toma4025
+Iconset: Rumax Icons (64 icons)
+License: Free for non-commercial use.
+Commercial usage: Not allowed
+
+Artist: GraphicLoads
+Iconset: 100 Flat Vol. 2 Icons (100 icons)
+License: Freeware
+Commercial usage: Allowed
+Readme file: License.txt
+All resources available for download on GraphicLoads are royalty free for use in both personal and commercial projects.
+Prohibitions
+You are prohibited to redistribute, resell, lease, license, sublicense or offer files downloaded from GraphicLoads to any third party.
+Link: http://graphicloads.com/license/
+contact: info@graphicloads.com
+
+Artist: dtafalonso
+Iconset: Android L Icons (19 icons)
+License: CC Attribution-Noncommercial-No Derivate 4.0
+Commercial usage: Not allowed
