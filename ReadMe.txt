@@ -1,4 +1,5 @@
 A software for for bulk download from email attachments(Pop3) Target .Net 4.5framework, x86. Writen in C#, using LumiSoft for receiving email. HmailSetup can directly install for you(also uninstall).
+Develop on Visual Studio 2017. License: MIT.
 
 首次使用需要在设置中设置好存储的路径、收件人邮箱、回复邮件设置。
 “暗号”为需要收取的邮件标题中必须要包含的字符。
